@@ -45,9 +45,9 @@ function addGamesToPage(games) {
     el.appendChild(cardImg);
     el.innerHTML += `<p>${games[i].description}</p>`;
     el.innerHTML += "<br>";
-    el.innerHTML += `<p>${games[i].backers}</p>`;
-    el.innerHTML += `<p>${games[i].pledged}</p>`;
-    el.innerHTML += `<p>${games[i].goal}</p>`;
+    el.innerHTML += `<p>Backers: ${games[i].backers}</p>`;
+    el.innerHTML += `<p>Pledged: ${games[i].pledged}</p>`;
+    el.innerHTML += `<p>Goal: ${games[i].goal}</p>`;
 
     // TIP: if your images are not displaying, make sure there is space
     // between the end of the src attribute and the end of the tag ("/>")
