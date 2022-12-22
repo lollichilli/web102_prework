@@ -23,8 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='web102_prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<!-- OR https://imgur.com/Nd3GZmT -->
+<img src='https://imgur.com/Nd3GZmT' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Kap for macOS
 
