@@ -33,8 +33,6 @@ Describe any challenges encountered while building the app.
 
 - My main challenge was that I had to read over some of the JavaScript methods such as the reduce method or filter method which I had never got my hands in before.
 
-- My main challenge was that I had to read over some of the JavaScript methods such as the reduce method or filter method which I had never got my hands in before.
-
 ## License
 
     Copyright [2022] [Tung Nguyen]
