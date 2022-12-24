@@ -3,6 +3,7 @@
 body {
   font-family: "Cabin";
   background-color: #758190;
+  text-align: center;
 }
 
 #tentacles {
@@ -80,4 +81,9 @@ button {
   padding: 1%;
   margin: 1%;
   border-radius: 7px;
+}
+
+button:hover {
+  background-color: lightblue;
+  color: white;
 }
