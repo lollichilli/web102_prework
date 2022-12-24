@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/aVk0Tsn" data-context="false" ><a href="//imgur.com/a/aVk0Tsn"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+https://imgur.com/YCGQAyJ
 
 GIF created with Kap for macOS
 
