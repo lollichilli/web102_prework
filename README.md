@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![](https://i.imgur.com/j26Alip.mp4)
+![](https://imgur.com/a/aVk0Tsn.gif)
 
 GIF created with Kap for macOS
 
