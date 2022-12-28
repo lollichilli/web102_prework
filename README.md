@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://media.giphy.com/media/HvtKf19ClLbXD4engT/giphy.gif" width="480" height="350" />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
