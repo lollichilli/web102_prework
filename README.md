@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-https://i.imgur.com/j26Alip.mp4
+ <img src="https://media.giphy.com/media/HvtKf19ClLbXD4engT/giphy.gif" width="480" height="300" />
 
 GIF created with Kap for macOS
 
