@@ -1,4 +1,4 @@
-# WEB102 Prework - Sea Monster Crowfunding
+# WEB102 Prework - Sea Monster Crowdfunding
 
 Submitted by: **Tung Nguyen**
 
